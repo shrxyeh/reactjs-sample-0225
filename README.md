@@ -2,9 +2,16 @@
 
 This is a simple ToDo application. It allows users to sign up, sign in, connect wallet  view their todos, add new todos, and delete existing todos.
 
-![image](https://github.com/BaibhavSureka/Todo-App-Mern-/assets/83425243/ce04e468-ed74-4bf6-8c53-4016d62e9604)
+![Screenshot 2025-02-16 130415](https://github.com/user-attachments/assets/f0b684e6-7222-4fc4-8b6f-fe13d29d5483)
 
-![image](https://github.com/BaibhavSureka/Todo-App-Mern-/assets/83425243/e7c45326-9829-4f4c-b7be-541301b4a120)
+![Screenshot 2025-02-16 130450](https://github.com/user-attachments/assets/ef802332-eea2-4bb2-8ac8-40d666ffa153)
+
+![Screenshot 2025-02-16 130522](https://github.com/user-attachments/assets/562077cf-6cf2-420a-a8c4-7a3c37f7f1fd)
+
+![Screenshot 2025-02-16 130633](https://github.com/user-attachments/assets/26723254-b167-4a9a-90c4-94590c5e5454)
+
+
+
 
 ## Features
 
@@ -53,4 +60,3 @@ node server.js
 cd frontend
 npm run dev
 ```
-##Deployment link
