@@ -1,4 +1,4 @@
-// __tests__/context/Web3Context.test.js
+
 import { render, act } from '@testing-library/react';
 import { Web3Provider, useWeb3 } from '../../context/Web3Context';
 import { renderHook } from '@testing-library/react-hooks';
