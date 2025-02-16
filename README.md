@@ -31,7 +31,7 @@ This is a simple ToDo application. It allows users to sign up, sign in, connect 
 # Installation
 Run the following command to clone the repository
 ```
-git clone https://github.com/BaibhavSureka/Todo-App-Mern-
+git clone https://github.com/shrxyeh/reactjs-sample-0225.git
 ```
 Go to ```frontend``` and ```backend``` directory to install packages
 ```
