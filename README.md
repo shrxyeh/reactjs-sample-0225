@@ -72,14 +72,10 @@ cd frontend
 npm run dev
 ```
 
-## Testing
-Run the following command to execute test cases using Jest/Enzyme:
-
 
 
 ## Blockchain Wallet Connection
 To enable Web3 integration, ensure that you have Metamask installed and configured. The app will prompt users to connect their wallets when required.
 
----
-This project is actively maintained and open to contributions. Feel free to raise issues or suggest improvements!
+
 
