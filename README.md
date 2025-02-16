@@ -1,6 +1,6 @@
 # TODO APP
 
-This is a simple ToDo application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to sign up, sign in, view their todos, add new todos, and delete existing todos.
+This is a simple ToDo application. It allows users to sign up, sign in, connect wallet  view their todos, add new todos, and delete existing todos.
 
 ![image](https://github.com/BaibhavSureka/Todo-App-Mern-/assets/83425243/ce04e468-ed74-4bf6-8c53-4016d62e9604)
 
@@ -53,6 +53,4 @@ node server.js
 cd frontend
 npm run dev
 ```
-## Contributing
-
-Contributions are welcome! Please feel free to open issues or submit pull requests to help improve this project.
+##Deployment link
