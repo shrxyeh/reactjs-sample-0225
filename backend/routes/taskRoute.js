@@ -11,7 +11,7 @@ const router = express.Router();
 
 router.post("/addTask", requireAuth, addTask);
 router.get("/getTask", requireAuth, getTask);
-router.delete("/removeTask/:id", requireAuth, removeTask); // Use DELETE method and include id in the route
-router.put("/markDone/:id", requireAuth, markDone); // PUT method for markDone
+router.delete("/removeTask/:id", requireAuth, removeTask); 
+router.put("/markDone/:id", requireAuth, markDone); 
 
 export default router;
